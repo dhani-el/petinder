@@ -1,0 +1,16 @@
+.swipePetComponentSecondMainDiv {
+  display: flex;
+  overflow: scroll;
+  box-sizing: border-box;
+  width: 500px;
+  height: 450px;
+  border: 2px red solid;
+  border-radius: 30px;
+}
+.swipePetComponentSecondMainDiv .aSwipePetComponentImage {
+  width: 500px;
+  height: 449px;
+  margin: 0 25px;
+  border-radius: 29px;
+  border: 2px green solid;
+}/*# sourceMappingURL=swipePet.css.map */

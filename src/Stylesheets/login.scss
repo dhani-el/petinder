@@ -1,0 +1,65 @@
+
+.buttonDiv{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    width: 500px;
+    padding: 50px;
+}
+
+.forgotDiv {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.formButton {
+    border: none;
+    width: 178px;
+    height: 43px;
+    border-radius: 21.5px;
+    background-color: rgb(221, 69, 131);
+    font-family: Hong Kong Hustle;
+    font-size: 27px;
+}
+
+
+.loginImageDiv{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.loginInput{
+    width: 430px;
+    height: 65.2px;
+    border-radius: 35.5px;
+    font-size: 27px;
+    font-family: Hong Kong Hustle;
+    border: 2.2px rgb(221, 69, 131) solid;
+    padding: 0 15px;
+}
+
+.loginButton{
+    width: 150px;
+    height: 45px;
+    border-radius: 22.5px;
+    border: none;
+    background-color: rgb(221, 69, 131);
+    font-family: Hong Kong Hustle;
+    font-size: 27px;
+}
+
+.loginComponentAncestor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    // gap: 50px;
+}
+
+.loginFormInput{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}

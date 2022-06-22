@@ -1,0 +1,24 @@
+
+
+
+
+.swipePetComponentSecondMainDiv{
+    display: flex;
+    // gap: 50px;
+    overflow: scroll;
+    // justify-content: flex-end;
+    box-sizing: border-box;
+    width: 500px;
+    height: 450px;
+    border: 2px red solid;
+    border-radius: 30px;
+
+
+    .aSwipePetComponentImage{
+        width: 500px;
+        height: 449px;
+        margin:0 25px;
+        border-radius: 29px;
+        border: 2px green solid;
+    }
+}
